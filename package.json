@@ -1,0 +1,38 @@
+{
+  "name": "mocha-protractor-teamcity-screenshot-reporter",
+  "version": "0.0.1",
+  "description": "a simple reporter for mocha-teamcity-reporter that adds screenshot capabilities",
+  "main": "index.js",
+  "directories": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/butterdave/mocha-protractor-teamcity-screenshot-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "teamcity",
+    "reporter",
+    "protractor",
+    "selenium",
+    "screenshot"
+  ],
+  "dependencies": {
+    "mocha": ">=1.13.0",
+    "mocha-teamcity-reporter": ">=0.0.2"
+  },
+  "author": {
+    "name": "David Park"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/butterdave/mocha-protractor-teamcity-screenshot-reporter/issues"
+  },
+  "readme": "mocha --reporter mocha-protractor-teamcity-screenshot-reporter test",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/butterdave/mocha-protractor-teamcity-screenshot-reporter",
+  "_id": "mocha-protractor-teamcity-screenshot-reporter@0.0.1",
+  "_from": "mocha-protractor-teamcity-screenshot-reporter@~0.0.1"
+}
