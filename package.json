@@ -20,6 +20,9 @@
     "mocha": ">=1.13.0",
     "mocha-teamcity-reporter": ">=0.0.2"
   },
+  "publishConfig": {
+    "registry": "http://tor-npm.points.com:5984/registry/_design/app/_rewrite"
+  },
   "author": "David Park",
   "license": "MIT",
   "bugs": {
