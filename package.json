@@ -18,7 +18,8 @@
   ],
   "dependencies": {
     "mocha": ">=1.13.0",
-    "mocha-teamcity-reporter": ">=0.0.2"
+    "mocha-teamcity-reporter": ">=0.0.2",
+    "mkdirp": "0.5.0"
   },
   "publishConfig": {
     "registry": "http://tor-npm.points.com:5984/registry/_design/app/_rewrite"
